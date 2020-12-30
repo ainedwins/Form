@@ -1,0 +1,54 @@
+body {
+    background-image: linear-gradient(to top, rgb(215, 243, 243), rgb(60, 179, 60));
+    font-family: verdana;
+    border: 2px solid rgb(189, 49, 49);
+    padding-right: 6em;
+    padding-left: 6em;
+    margin: 2.5%;
+    border-radius: 1em;
+  }
+  h3 {
+    color: #2e2e02;
+  }
+  p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  img {
+    padding-top: 2em;
+    width: 200px;
+    height: 250px;
+    /*border-radius: 50%; this is used to round the images*/
+  }
+  .aligncenter {
+    text-align: center;
+  }
+  footer {
+    border-top: 1px solid #373c3f;
+    text-align: center;
+    padding-top: 1em;
+    color: #775815;
+    }
+  footer img {
+    width: 40px;
+    height: 40px;
+    margin-left: .5em;
+    margin-right: .5em;
+  }
+  h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size:150%;
+    text-shadow: .2em .2em .1em rgb(83, 72, 72);
+    color: #1f1f02;
+  }
+  a { 
+    text-decoration: none; 
+  }
+  a:link { 
+    color: maroon; 
+  }
+  #prof {
+    text-align: justify;
+    padding-right: 6em;
+  }
+ 
